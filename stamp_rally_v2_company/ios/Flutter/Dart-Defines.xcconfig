@@ -1,0 +1,9 @@
+flavor=production
+appId=jp.co.eln.meguru_company
+iosAppId=jp.co.eln.meguruCompany
+appNameIos=Meguru めぐる 観光
+appNameAndroid=Meguru めぐる 観光
+supabaseUrl=https://zooleonemjdnxakyazek.supabase.co
+anonKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inpvb2xlb25lbWpkbnhha3lhemVrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjc1Mjg0NTcsImV4cCI6MjA0MzEwNDQ1N30.Zha0YfRfyh3bTv0NAyYCb8LtSaZIcdgn82QxXSk_6ko
+notionApiKey=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
+notionStampRallyEventList=22da4511825880719752ea0398ed02a7

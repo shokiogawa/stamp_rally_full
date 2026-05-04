@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/ogawashoki/repository/stamp_rally_full/stamp_rally_v2_jinguu status)"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "スタンプラリー (debug mode)",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--dart-define-from-file=lib/configuration/develop/dart_defines_development.json"
+      ]
+    },
+    {
+      "name": "スタンプラリー (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "スタンプラリー (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release",
+      "args": [
+        "--release",
+        "--dart-define-from-file=lib/configuration/production/dart_defines_production.json"
+      ]
+    }
+  ]
+}

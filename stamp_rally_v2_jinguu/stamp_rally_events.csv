@@ -1,0 +1,18 @@
+id,code,title,description,position,placeDataListCsv,mainImage,period,prizeInfoName,prizeInfoImage,mapType,status
+1,toyohasi,豊橋・蒲郡キャンペーン,日本旅行120周年記念豊橋・蒲郡キャンペーン JR豊橋駅・吉田神社・安久美神戸神明社・吉田城・JR蒲郡駅・八百富神社を巡るスタンプラリーです,豊橋・蒲郡,https://jinja-net.jp/stamp-toyohasi/data/toyohasi.csv,https://jinja-net.jp/stamp-toyohasi/image/TOP.png,年中開催,,,normal,active
+2,niigata-shi,日本旅行新潟市キャンペーン,"日本旅行120周年記念新潟駅　蒲原神社　金刀比羅神社　湊稲荷神社　ANAｸﾗｳﾝﾌﾟﾗｻﾞﾎﾃﾙ新潟を巡るスタンプラリーです。巡拝後、ANAクラウンホテルプラザホテル新潟の焼菓子3個セット　を　プレゼント
+※スマホ画面をホテルフロントにて提示してください。",新潟市,https://jinja-net.jp/niigata1/data/niigata1.csv,https://jinja-net.jp/niigata1/image/TOP.png,年中開催,,,normal,active
+3,niigata2,日本旅行長岡市弥彦キャンペーン,日本旅行120周年記念、彌彦神社・高龍神社・蒼紫神社・四季の宿みのやを巡るスタンプラリーです。巡拝後四季の宿みのやでスタンプラリー特典：弥彦プリン１個をお受け取り下さい（当日限り）,,https://jinja-net.jp/niigata2/data/niigata2.csv,https://jinja-net.jp/niigata2/image/TOP.png,年中開催,,,normal,active
+4,asahi2,朝日神社年間祭祀,朝日神社の年間祭祀を巡るスタンプラリーです,朝日,https://jinja-net.jp/stamp-asahi2/data/asahi2.csv,https://jinja-net.jp/stamp-asahi2/image/TOP.png,年中開催,,,normal,active
+5,asahi3,朝日神社年間祭祀 複数年度対応版,朝日神社の年間祭祀を複数年度で巡るスタンプラリーです,朝日,https://jinja-net.jp/stamp-asahi3/data/asahi3.csv,https://jinja-net.jp/stamp-asahi3/image/TOP.png,年中開催,,,normal,active
+6,asahi,朝日神社と兼務社巡めぐり,朝日神社と兼務社を巡るスタンプラリーです,朝日,https://jinja-net.jp/stamp-asahi/data/asahi-jinja.csv,https://jinja-net.jp/stamp-asahi/image/TOP.png,年中開催,,,normal,active
+7,takeru,日本武尊スタンプラリー,日本武尊ゆかりの地を巡るスタンプラリーです,ヤマトタケル,https://jinja-net.jp/stamp-takeru/data/histric.csv,https://jinja-net.jp/stamp-takeru/image/TOP.png,年中開催,,,normal,active
+8,jingyu-1,伊勢神宮125社巡り 外宮編,伊勢神宮125社巡りの外宮編スタンプラリーです,伊勢神宮,https://jinja-net.jp/stamp-jinguu1/data/jinguu1.csv,https://jinja-net.jp/stamp-jinguu1/image/TOP.png,年中開催,,,normal,active
+9,jingyu-7,伊勢神宮125社巡り 内宮編,伊勢神宮125社巡りの内宮編スタンプラリーです,伊勢神宮,https://jinja-net.jp/stamp-jinguu7/data/jinguu7.csv,https://jinja-net.jp/stamp-jinguu7/image/TOP.png,年中開催,,,normal,active
+10,jingyu-8,伊勢神宮125社巡り 二見編,伊勢神宮125社巡りの二見編スタンプラリーです,伊勢神宮,https://jinja-net.jp/stamp-jinguu8/data/jinguu8.csv,https://jinja-net.jp/stamp-jinguu8/image/TOP.png,年中開催,,,normal,active
+11,tanzan,談山神社スタンプラリー,談山神社を巡るスタンプラリーです,談山,https://jinja-net.jp/stamp-tanzan/data/tanzan.csv,https://jinja-net.jp/stamp-tanzan/image/TOP.png,年中開催,,,normal,active
+12,wada,和田スタンプラリー,和田地区を巡るスタンプラリーです,和田,https://jinja-net.jp/stamp-wada/data/wada.csv,https://jinja-net.jp/stamp-wada/image/TOP.png,年中開催,,,normal,active
+13,meitetu-1,名鉄特急で行く 古後巡訪スタンプラリー,名鉄特急で古後を巡るスタンプラリーです,名鉄,https://jinja-net.jp/stamp-meitetu1/data/meitetu-1.csv,https://jinja-net.jp/stamp-meitetu1/image/TOP.png,年中開催,,,normal,active
+14,meitetu-3,名鉄3スタンプラリー,名鉄3のスタンプラリーです,名鉄,https://jinja-net.jp/stamp-meitetu3/data/meitetu-3.csv,https://jinja-net.jp/stamp-meitetu1/image/TOP.png,年中開催,,,normal,active
+15,bizen,備前岡山式内社巡り,備前岡山の式内社を巡るスタンプラリーです,岡山,https://jinja-net.jp/stamp-bizen/data/bizen.csv,https://jinja-net.jp/stamp-bizen/image/TOP.png,年中開催,,,normal,active 
+16,sanuki,讃岐香川式内社巡り,讃岐香川の式内社を巡るスタンプラリーです,香川,https://jinja-net.jp/stamp-sanuki/data/sanuki.csv,https://jinja-net.jp/stamp-sanuki/image/TOP.png,年中開催,,,normal,active
